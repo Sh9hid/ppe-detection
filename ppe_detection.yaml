@@ -1,0 +1,12 @@
+# YOLO config files for Object Detection
+
+# The following are relative to your paths directory, make sure it's pointing at the right directory
+
+# path: 'ultralytics\settings.py' 
+train: 'images-ppe\images\train' # relative to path
+val: 'images-ppe\images\val'   # relative to path
+
+nc: 9 # number of classes
+names:  ['hard-hat', 'gloves', 'mask', 'glasses', 'boots', 'vest', 'ppe-suit', 'ear-protector', 'safety-harness']
+
+

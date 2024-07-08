@@ -1,0 +1,12 @@
+__pycache__
+.venv/
+.env
+weights/
+runs/
+yolov8n.pt
+data/
+dataset
+datasets
+data2
+data
+cli.log

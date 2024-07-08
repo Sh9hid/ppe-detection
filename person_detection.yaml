@@ -1,0 +1,9 @@
+# YOLO config files for Object Detection
+
+# The following are relative to your paths directory, make sure it's pointing at the right directory 'ultralytics\settings.py' 
+
+train: 'data\images\train' # relative to path
+val: 'data\images\val'   # relative to path
+
+nc: 1 # number of classes
+names: ['person']
