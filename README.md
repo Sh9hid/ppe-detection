@@ -36,10 +36,9 @@ yolo predict model='models\best.pt' source=' path/to/jpeg/dir'
 ```
 or using opencv bounding boxes
 
-'''
+```
 python perform_inference.py path/to/input_dir, path/to/output_dir, path/to/person_det_model path/to/ppe_detection_model
-
-'''
+```
 
 ## Summary: 
 
