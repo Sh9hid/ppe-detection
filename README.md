@@ -2,7 +2,7 @@
 # Person and PPE Detection (You-Only-Look-Once v8)
 Trained on person and ppe-class. utils\preview.py for viewing most-inaccurate labels. 
 
-Here's the link to the [Google Colab notebook](https://colab.research.google.com/drive/1Wrp33aq26xWiuC8pJQwP4IQxoXzcmoee?usp=sharing).
+Here's the link to the notebook [here](https://colab.research.google.com/drive/1Wrp33aq26xWiuC8pJQwP4IQxoXzcmoee?usp=sharing).
 
  ## Installation
 
